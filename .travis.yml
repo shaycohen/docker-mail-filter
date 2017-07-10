@@ -13,4 +13,3 @@ before_install:
 
 script:
 - bundle exec rake test
-
